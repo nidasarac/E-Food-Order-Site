@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webprojeson/static/css/main.ff8e4f2a.css",
+    "main.js": "/webprojeson/static/js/main.10670021.js",
+    "index.html": "/webprojeson/index.html",
+    "main.ff8e4f2a.css.map": "/webprojeson/static/css/main.ff8e4f2a.css.map",
+    "main.10670021.js.map": "/webprojeson/static/js/main.10670021.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8e4f2a.css",
+    "static/js/main.10670021.js"
+  ]
+}
