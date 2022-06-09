@@ -47,7 +47,7 @@ const Cart = ({ cart, setCart, handleChange }) => {
       
       <div className="sipariş">
         
-        <button onClick={() =>alert("SİPARİŞİN VERİLDİ")}>SİPARİŞİ TAMAMLA</button>
+        <button className="sipariş" onClick={() =>alert("SİPARİŞİN VERİLDİ")}>                               SİPARİŞİ TAMAMLA</button>
         
       </div>
       

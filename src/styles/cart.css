@@ -79,8 +79,16 @@
 
   .sipariş {
     
-    margin-top: 80px;
-    margin-left: 200px;
+    align-items: inherit;
+    padding: 5px 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: rgb(21, 33, 38);
+    border-radius: 5px;
+    cursor: pointer;
 
 }
     
