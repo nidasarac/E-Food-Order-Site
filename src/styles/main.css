@@ -1,0 +1,60 @@
+* {
+    margin: 5;
+    padding: 0;
+  }
+  section {
+    
+    width: 80%;
+    margin: auto;
+    margin-top: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    background-image:url("https://png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-american-cuisine-watercolor-vegetable-meat-burger-onion-kitchen-poster-background-image_131542.jpg");
+    position: relative;
+    min-height: 100%;
+    background-size:cover ;
+    background-position: center;
+    min-width: 100%;
+    
+  }
+  .cards {
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+  }
+  .cards:hover {
+    box-shadow: 0 10px 10px 10px rbga(0, 0, 0, 0.1);
+    cursor: pointer;
+  }
+  .image_box img {
+    width: 270px;
+    height: 270px;
+  }
+  
+  .image_box img {
+    width: 270px;
+    height: 270px;
+  }
+  .details p:nth-child(1) {
+    font-weight: bold;
+    font-size: 35px;
+  }
+  .details p:nth-child(2) {
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+  }
+  .details p:nth-child(3) {
+    font-weight: bolx;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-variant-position: inherit;
+    
+  }
+  .details button {
+    padding: 15px 20px;
+    border: none;
+    font-weight: bold;
+    background-color: skyblue;
+    outline: none;
+  }
